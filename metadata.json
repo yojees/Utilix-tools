@@ -1,0 +1,6 @@
+{
+  "name": "UTILIX",
+  "description": "Fast, simple browser-based tools for PDFs, images, developers, and everyday tasks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
